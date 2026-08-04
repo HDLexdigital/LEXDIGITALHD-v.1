@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Sistema de Publicación Jurídica</title>
+  <link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+  <h1>Bienvenido al Sistema de Publicación Jurídica</h1>
+  <p>Este sitio está publicado con GitHub Pages.</p>
+</body>
+</html>
